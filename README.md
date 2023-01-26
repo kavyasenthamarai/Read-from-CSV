@@ -21,6 +21,7 @@ End the program
 
 
 ## PROGRAM:
+```python
 Developed by : kavya,k
 Ref No : 22008613
 import pandas as import pd
@@ -29,7 +30,7 @@ print(df.head(10))
 print(df.tail())
 print("column",len(df.axes[0]))
 print("rows",len(df.axes[1]))
-
+```
 ## OUTPUT:
 ![](1.png)
 ![](2.png)
